@@ -217,47 +217,5 @@
         }
       ]
     }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "username": "pouros"
-    },
-    {
-      "id": 2,
-      "username": "auer"
-    },
-    {
-      "id": 3,
-      "username": "marvin"
-    },
-    {
-      "id": 4,
-      "username": "ann"
-    },
-    {
-      "id": 5,
-      "username": "feels-like-summer"
-    },
-    {
-      "id": 6,
-      "username": "steuber"
-    },
-    {
-      "id": 7,
-      "username": "summerqueen98"
-    },
-    {
-      "id": 8,
-      "username": "maverick"
-    },
-    {
-      "id": 9,
-      "username": "alex"
-    },
-    {
-      "id": 10,
-      "username": "macejkovic"
-    }
   ]
 }
